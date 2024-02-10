@@ -1,3 +1,0 @@
-C:/Users/User/source/build/Res1/CMakeFiles/lab1.dir
-C:/Users/User/source/build/Res1/CMakeFiles/ALL_BUILD.dir
-C:/Users/User/source/build/Res1/CMakeFiles/ZERO_CHECK.dir
