@@ -1,6 +1,0 @@
-*
-!menu*
-*.jpg
-!.gitignore
-!main.cpp
-!CMakeLists.txt
